@@ -1,0 +1,8 @@
+apiVersion: bitnami.com/v1alpha1
+kind: SealedSecret
+metadata:
+  name: meadow-village-secrets
+spec:
+  encryptedData:
+    DB_PASSWORD: AgEJzJIRzAQrskgKiBarX5Pez00CgLawYDY5igVomg3xQSb1hyGUzhwRGtPUj+GLx/0oNiIxBF7QgEAxMPkuXk57TTUa/I81SjF6zbZrCCj+vHkx/Jy1gtoNgaYLMGTsox/4oGKZ6vo5i2I+X3nLZrP0RABPO3OLoEsfuUwJBkiHM6xFStH1W0uqpM54X27N66ZlY1uTf7bD13ctrdTAt/nU8hkOdVfFehkdVQFoAHJO1dGSQedJkmoa/5OZgbLIgYdnd/ZPX4RTLFayoMyy0CPTtvwQ4omX9/fCliHfitmeth==
+    API_TOKEN: AgE29C7SInqiCayizQkP1Wo0ZRczH4EAnpjc5QyztblObWtPcePm6UQmBN3LX+xAmN4TSagGzbg/sLhQM7OnHEgB8HWoi7tIffOwwQ2q2RkxLAwp49OhYJ06HRt/wl2ygEzpRMilsq5oUVfxByKyLClK9+zlEXnTTpvqX8lpz7kwXN0oWDBN9MBU/8SCsFipwhpbe5rG+1CKtixU3HhIQTr1oiHOeQKzWdwKjC2bsUOkyw+97W1TRqCEJGgn2f2qs4YyKv5i+hdsmWNaptZyQxS/+fW1Cgeb9NCrk/+mpVgVVr==
